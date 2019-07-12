@@ -3,7 +3,14 @@
 
 Text that is cool
 
+Set Up
+
+0) start new repo on github
+0) git remote add <name> <location>
+1) git push <location> origin   <branch> master
+
 How to track files with Git
+
 
 
 1) - $ git add .
